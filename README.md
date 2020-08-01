@@ -1,3 +1,4 @@
 # jenkins-test
 Mega super puper duper Continius Integration
-2
+3
+Lite CI is WORK
